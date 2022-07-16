@@ -20,6 +20,7 @@ struct Square {
 
 int main() {
 
+	//Implementations
 	Rectangle yard;
 	Rectangle rec;
 	Circle cir;
